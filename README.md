@@ -8,8 +8,7 @@ My name is Irufaan Ali, undergraduate student at Zhejiang Normal University, Jin
  
 Therefore, I think Software engineering programs will prepare me to do more than code. Bachelor’s educated software engineers may work at any stage of the software development life cycle. Duties can include eliciting project requirements, writing algorithms, coding, testing, deployment, or maintenance. Professionals who are new to the field often start out as programmers and work their way up to positions of greater responsibilities.  So, for me this major is scientific and mathematical foundation for all careers. Since, I’ll study the scientific and mathematical basis of computer software and learn a variety of programming languages and how to design, analyze and maintain software. 
 
-
- #Goal for 2017
+# Goal for 2017
 
 ### Markdown
 
