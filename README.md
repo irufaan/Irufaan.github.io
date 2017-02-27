@@ -9,9 +9,7 @@ My name is Irufaan Ali, undergraduate student at Zhejiang Normal University, Jin
 Therefore, I think Software engineering programs will prepare me to do more than code. Bachelor’s educated software engineers may work at any stage of the software development life cycle. Duties can include eliciting project requirements, writing algorithms, coding, testing, deployment, or maintenance. Professionals who are new to the field often start out as programmers and work their way up to positions of greater responsibilities.  So, for me this major is scientific and mathematical foundation for all careers. Since, I’ll study the scientific and mathematical basis of computer software and learn a variety of programming languages and how to design, analyze and maintain software. 
 
 
-You can use the [editor on GitHub](https://github.com/irufaan/Irufaan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+                                            #Goal for 2017
 
 ### Markdown
 
