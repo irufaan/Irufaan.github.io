@@ -1,5 +1,5 @@
 ## New Determinations and Goal for 2017 
-+Thumbs.db
+
 ### Self Introduction
 
 My name is Irufaan Ali, undergraduate student at Zhejiang Normal University, Jinhua, Zhejiang Province, China. I am from Maldives. I have been in China for almost 2 years and I am studying bachelor degree on software engineering at the College of Mathematics, Physics and Information Engineering.
